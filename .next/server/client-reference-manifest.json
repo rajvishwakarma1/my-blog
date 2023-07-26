@@ -370,10 +370,6 @@
         "static/css/app/layout.css"
       ]
     },
-    "/Users/raj/She's Here/my-blog/app/archives/page": {
-      "modules": [],
-      "files": []
-    },
     "/Users/raj/She's Here/my-blog/app/[...slug]/page": {
       "modules": [],
       "files": []
