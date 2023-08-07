@@ -2,6 +2,7 @@
 
 import posts__aboutThisSiteMdx from './posts__about-this-site.mdx.json' assert { type: 'json' }
 import posts__burnoutWhileCodingMdx from './posts__burnout-while-coding.mdx.json' assert { type: 'json' }
+import posts__firstInternshipMdx from './posts__first-internship.mdx.json' assert { type: 'json' }
 import posts__jugaadInnovationMdx from './posts__jugaad-innovation.mdx.json' assert { type: 'json' }
 
-export const allPosts = [posts__aboutThisSiteMdx, posts__burnoutWhileCodingMdx, posts__jugaadInnovationMdx]
+export const allPosts = [posts__aboutThisSiteMdx, posts__burnoutWhileCodingMdx, posts__firstInternshipMdx, posts__jugaadInnovationMdx]
