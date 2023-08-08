@@ -271,7 +271,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/[...slug]/page:static/chunks/app/[...slug]/page.js"
+        "app/archives/page:static/chunks/app/archives/page.js"
       ],
       "async": false
     },
@@ -279,7 +279,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/[...slug]/page:static/chunks/app/[...slug]/page.js"
+        "app/archives/page:static/chunks/app/archives/page.js"
       ],
       "async": false
     },
@@ -370,11 +370,11 @@
         "static/css/app/layout.css"
       ]
     },
-    "/Users/raj/She's Here/my-blog/app/archives/page": {
+    "/Users/raj/She's Here/my-blog/app/[...slug]/page": {
       "modules": [],
       "files": []
     },
-    "/Users/raj/She's Here/my-blog/app/[...slug]/page": {
+    "/Users/raj/She's Here/my-blog/app/archives/page": {
       "modules": [],
       "files": []
     }
